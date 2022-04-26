@@ -1,5 +1,5 @@
 {
-    "name": "getresponse/sdk-php-client",
+    "name": "b2bcenter/sdk-php-client",
     "description": "GetResponse SDK client for all public GetResponse product",
     "minimum-stability": "stable",
     "license": "MIT",
