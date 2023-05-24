@@ -32,7 +32,7 @@ class OperationResponseCollection implements \IteratorAggregate
     /**
      * @return \ArrayIterator |  OperationResponse[]
      */
-    public function getIterator()
+    public function getIterator(): \ArrayIterator
     {
         return new \ArrayIterator($this->operations);
     }
