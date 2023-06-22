@@ -1,5 +1,5 @@
 {
-    "name": "b2bcenter/sdk-php-client",
+    "name": "dfumagalli/sdk-php-client",
     "description": "GetResponse SDK client for all public GetResponse product",
     "minimum-stability": "stable",
     "license": "MIT",
@@ -18,9 +18,9 @@
         }
     },
     "require": {
-        "php": ">=7.3",
+        "php": ">=8.0.0",
         "guzzlehttp/psr7": "^2.1",
-        "psr/log": "^1.0"
+        "psr/log": "^3.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.5",
